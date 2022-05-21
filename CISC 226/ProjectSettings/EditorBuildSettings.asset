@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/DemoScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/RhythmDemo.unity
+    guid: 7eea77675f445964b93a42fc9b0f6314
+  - enabled: 0
+    path: Assets/Scenes/Demo Complete.unity
+    guid: 2f821683e121f984b8bf1306db53e3d9
+  - enabled: 1
+    path: Assets/Scenes/Hall Scene.unity
+    guid: 3e49eb3bc020e11488b1355298ba867d
+  - enabled: 1
+    path: Assets/Scenes/Dollhouse Scene.unity
+    guid: e9148813fe4d747469d31fa036c8eac6
+  - enabled: 1
+    path: Assets/Scenes/Dollhouse Rhythm.unity
+    guid: f1cb4e51c0cd75e4aa2780889c60c152
+  - enabled: 1
+    path: Assets/Scenes/Library Level.unity
+    guid: 49cf0628ae59adf42b06cb6ab98a89d1
+  - enabled: 1
+    path: Assets/Scenes/Library Level Rhythm.unity
+    guid: 32f663f4d642e7344853ae454317b4fb
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 32d35db6f2391214caa4f97d2ec30474
+  - enabled: 1
+    path: Assets/Scenes/Levels Scene.unity
+    guid: 4c4f64bb3a0e8cf478531936bb565e7c
+  - enabled: 1
+    path: Assets/Scenes/Circus Scene.unity
+    guid: c7b0910b4d6275649a0aaf343e3c2197
+  - enabled: 1
+    path: Assets/Scenes/Circus Rhythm.unity
+    guid: 0311764b07331c447b8cb9f463294eb5
+  m_configObjects: {}
